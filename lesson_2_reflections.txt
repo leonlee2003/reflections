@@ -10,3 +10,7 @@ The staging area is different from the repository in that it contains only the f
 How can you use the staging area to make sure you have one commit per logical change?
 
 As stated in the previous entry, the staging area can be used to make one logical change by allowing you to commit one file change at a time, even when multiple files were changed at once.
+
+What are some situations when branches would be helpful in keeping your history organized. How would branches help? 
+
+I think that branches would be useful when there is different versions of the program need to be created. For me, this may be different versions of the same program to handle different ways of formatting data. It would also be useful in cases where I wanted to experiment with a different idea. The branches would save time if I wanted to update the old idea without having to go back and find the specific commit id that corresponds to when the experimental idea was implemented.
