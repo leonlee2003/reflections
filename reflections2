@@ -1,0 +1,26 @@
+How can you use the commands git log and git diff to view the history of files?
+
+In order to use the commands git log and git diff to view the history of files, you
+would use the command line interface to navigate to the directory containing the 
+repository. You would then use the command git log to view the history of the files. 
+Once you do this you can choose the ids of the commits you would like to compare (hopefully)
+consecutive commits. This would show you the changes made between the two consecutive 
+commits. I think that this process is as intuitive as it could possibly be, but it is going 
+to take a little practice to get used to.
+
+How might using version control make you more confident to make changes 
+that could break something?
+
+Making changes without any form of version control can be a bit nerve racking
+because there is always the possibility that you may not be able to undo 
+any mistakes that you make. But, with version control, it's easy to figure out
+where bugs were introduced (ie which version), the git diff command makes it
+easy to figure out which line caused the bug.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+I would like to try to use Git to create some of these reflections to start
+off with. I think that this would be pretty good practice. But, I would eventually
+like to redo a few of the projects that I have on my Windows OS using Git.
+I have one involving crime statistics, one involving a stock price classifier,
+and another involving stock data visualization. None of these are where I want 
+them to be because making big changes is hard without version control.

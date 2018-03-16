@@ -1,0 +1,10 @@
+How can you use the commands git log and git diff to view the history of files?
+
+In order to use the commands git log and git diff to view the history of files, you
+would use the command line interface to navigate to the directory containing the 
+repository. You would then use the command git log to view the history of the files. 
+Once you do this you can choose the ids of the commits you would like to compare (hopefully)
+consecutive commits. This would show you the changes made between the two consecutive 
+commits. I think that this process is as intuitive as it could possibly be, but it is going 
+to take a little practice to get used to.
+
