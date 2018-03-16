@@ -2,3 +2,7 @@ What happens when you initialize a repository? Why do you need it?
 
 When you initialize a repository a .git file is created that contains all of the global git settings for repositories.
 Though no commits are created, you need to create a repository in order to start tracking files.
+
+How is the staging area different from the working directory and the respository? What value you do you think it offers?
+
+The staging area is different from the repository in that it contains only the files to be committed. The value of the staging area is that it allows the user to make 1 logical change to multiple files, and then go back and make a commit for each file changed. 
