@@ -14,3 +14,6 @@ As stated in the previous entry, the staging area can be used to make one logica
 What are some situations when branches would be helpful in keeping your history organized. How would branches help? 
 
 I think that branches would be useful when there is different versions of the program need to be created. For me, this may be different versions of the same program to handle different ways of formatting data. It would also be useful in cases where I wanted to experiment with a different idea. The branches would save time if I wanted to update the old idea without having to go back and find the specific commit id that corresponds to when the experimental idea was implemented.
+How do the diagrams help you visualize the branch structure?
+
+Diagrams are, in my mind, an exact representation of the branch structure. This visual representation makes it easy to see which commits are not reachable. And, it makes it easy to see when a new branch needs to be created. 
