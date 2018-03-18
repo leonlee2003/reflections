@@ -17,3 +17,7 @@ I think that branches would be useful when there is different versions of the pr
 How do the diagrams help you visualize the branch structure?
 
 Diagrams are, in my mind, an exact representation of the branch structure. This visual representation makes it easy to see which commits are not reachable. And, it makes it easy to see when a new branch needs to be created. 
+
+What is the result of merging two branches together? Why do you represent the diagram the way we do?
+
+The result of merging two branches is the merging of the files contained in each branch, and one branch, with the same title as the first branch listed. We represent the new branch on the diagram by showing placing it in the middle of the two preceding branches because the new commit has two parents. 
