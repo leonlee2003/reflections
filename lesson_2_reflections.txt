@@ -21,3 +21,8 @@ Diagrams are, in my mind, an exact representation of the branch structure. This 
 What is the result of merging two branches together? Why do you represent the diagram the way we do?
 
 The result of merging two branches is the merging of the files contained in each branch, and one branch, with the same title as the first branch listed. We represent the new branch on the diagram by showing placing it in the middle of the two preceding branches because the new commit has two parents. 
+
+What are the pros and cons of Gits automatic merging vs. always doing merges manually?
+
+Merging automatically is definitely a benefit when there is not a question about how branches need to be merged. For example, if each branch contains totally differnt files. In this case, merging manually would be a tedious waste of time. But, I think that merging branches manually when there are file conflicts is useful because it encourages dialog where necessary, and it cuts down on the occurence of unpredictable changes and bugs. The fact that git shows the writer where in each file the conflicts lie is particularly useful.
+
