@@ -1,0 +1,7 @@
+When would you want to use a remote repository rather than keeping all of your work local?
+I would use a remote repository if I were working from a different computer and wanted to include changes into the repository. Or, if I needed to create a file that might take a substantial amount of space on my hard drive.
+
+
+helpful reminders
+<git remote add [remote name] [github url]>
+<git push [remote name] [branch to be pushed]>
