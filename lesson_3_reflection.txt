@@ -5,3 +5,7 @@ I would use a remote repository if I were working from a different computer and 
 helpful reminders
 <git remote add [remote name] [github url]>
 <git push [remote name] [branch to be pushed]>
+
+Why might you want to always pull changes manually rather than having Git automatically stay up to date with your remote repository?
+
+I think that staying up to date with the remote repository could be a little dangerous in that it would allow files intended to be on a remote server onto your personal computer. The files could be large or they could interact with other files on your computer in unintended ways. It's safe to say that sometimes files are intended to be stored remotely and not locally. In these cases, we want a way to keep these files remote.
